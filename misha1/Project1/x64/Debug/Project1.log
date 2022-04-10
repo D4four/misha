@@ -1,0 +1,3 @@
+﻿  maian.cpp
+D:\misha\Project1\Project1\maian.cpp(8,9): warning C4101: m: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\misha\Project1\x64\Debug\misha1.exe

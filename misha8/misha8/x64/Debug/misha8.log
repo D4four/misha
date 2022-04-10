@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\misha\misha8\misha8\main.cpp(34,6): warning C4101: res: неиспользованная локальная переменная
+  misha8.vcxproj -> D:\misha\misha8\x64\Debug\misha8.exe
