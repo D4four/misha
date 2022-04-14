@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\misha\misha14\misha14\main.cpp(30,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  misha14.vcxproj -> D:\misha\misha14\x64\Debug\misha14.exe

@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (misha14.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\misha\misha14\misha14\main.cpp(29,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  misha14.vcxproj -> D:\misha\misha14\x64\Debug\lab_14.exe
